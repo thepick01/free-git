@@ -1,1 +1,21 @@
-this is test
+git init
+
+git add 파일이름 
+git add code1.txt
+
+git rm --cached code1.txt
+
+git add . 
+
+
+폴더 올린것 빼낼때 
+
+git rm -rf .idea
+
+.gitignore   폴더 만들어라
+착각 했다 폴더가 아니라 파일이다 파일에 이름 적으면 된다
+
+git status
+
+git log
+
